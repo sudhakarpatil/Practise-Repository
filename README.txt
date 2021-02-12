@@ -1,2 +1,3 @@
 "Hello,git"
-"Hello,again"
+"Hello,agnin"
+Updating README.txt information
